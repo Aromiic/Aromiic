@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou o Aromiic
-- 👀 Atualmente o meu foco é com php com um projeto de uma Empresa de Apps e Jogos em mãos.
+- 👀 Sou um pequeno desenvolvedor desde 2017 e sou dev java, js, html, css e php
 - 💞️ Toda a ajuda é bem vinda
-- 📫 Para me alcançar poderá usar o discord da empresa (AINDA NÃO DISPONIVEL) e procure pelo meu nome
+- 📫 Para me alcançar poderá usar o discord da Node Company (https://node-company.net) (https://discord.gg/T8WVsFcyyE) e procure pelo meu nome
 
 <!---
 Aromiic/Aromiic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
